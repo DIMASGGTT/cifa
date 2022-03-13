@@ -3,7 +3,7 @@ body {
 }
 
 header{
-    background-image:url("https://cdn.pixabay.com/photo/2019/09/18/21/12/dark-4487690_960_720.jpg");
+    background-image:url("https://mail.google.com/mail/u/0?ui=2&ik=9ff8c8e2ef&attid=0.1&permmsgid=msg-f:1727188478404371341&th=17f834c52370a38d&view=att&disp=safe&realattid=17f834b016825ca56e61");
     height:100px
 }
 h1{
@@ -27,14 +27,14 @@ h1{
 }
 
 main{
-    background-image: linear-gradient(black, orange);
+    background-image: linear-gradient(darkblue, blue);
     color: blueviolet;
    
 
 }
 
 footer{
-    background-image: linear-gradient(orange, black);
+    background-image: linear-gradient(orange, skyblue);
     font-size: 18px;
     height: 100px;
 }
